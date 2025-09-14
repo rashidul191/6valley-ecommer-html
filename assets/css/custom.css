@@ -1,7 +1,6 @@
 :root {
     --input-placeholder-color: #222;
 }
-
 .rtl {
     direction: var(--web-direction);
 }
@@ -40,7 +39,6 @@
 ::-webkit-scrollbar-thumb:hover {
     background: var(--web-secondary) !important;
 }
-
 [type="radio"]:not(.show) {
     border: 0;
     clip: rect(0 0 0 0);
